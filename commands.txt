@@ -10,4 +10,4 @@ git status
 git log
 git log --oneline
 git config --global user.name
-git config --global user.emailID
+git config --global user.email
